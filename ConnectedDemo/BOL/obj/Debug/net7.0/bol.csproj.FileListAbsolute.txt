@@ -1,0 +1,12 @@
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\bin\Debug\net7.0\bol.deps.json
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\bin\Debug\net7.0\bol.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\bin\Debug\net7.0\bol.pdb
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\obj\Debug\net7.0\bol.csproj.AssemblyReference.cache
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\obj\Debug\net7.0\bol.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\obj\Debug\net7.0\bol.AssemblyInfoInputs.cache
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\obj\Debug\net7.0\bol.AssemblyInfo.cs
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\obj\Debug\net7.0\bol.csproj.CoreCompileInputs.cache
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\obj\Debug\net7.0\bol.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\obj\Debug\net7.0\refint\bol.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\obj\Debug\net7.0\bol.pdb
+E:\DotNet\DotnetPractice\ConnectedDemo\BOL\obj\Debug\net7.0\ref\bol.dll

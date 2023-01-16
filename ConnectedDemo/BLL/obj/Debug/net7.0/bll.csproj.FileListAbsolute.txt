@@ -1,0 +1,17 @@
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\bin\Debug\net7.0\bll.deps.json
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\bin\Debug\net7.0\bll.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\bin\Debug\net7.0\bll.pdb
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\bin\Debug\net7.0\bol.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\bin\Debug\net7.0\dal.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\bin\Debug\net7.0\bol.pdb
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\bin\Debug\net7.0\dal.pdb
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\bll.AssemblyInfo.cs
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\bll.csproj.CopyComplete
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\bll.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\refint\bll.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\bll.pdb
+E:\DotNet\DotnetPractice\ConnectedDemo\BLL\obj\Debug\net7.0\ref\bll.dll

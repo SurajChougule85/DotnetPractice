@@ -1,0 +1,15 @@
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\bin\Debug\net7.0\dal.deps.json
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\bin\Debug\net7.0\dal.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\bin\Debug\net7.0\dal.pdb
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\bin\Debug\net7.0\bol.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\bin\Debug\net7.0\bol.pdb
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\dal.csproj.AssemblyReference.cache
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\dal.AssemblyInfoInputs.cache
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\dal.AssemblyInfo.cs
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\dal.csproj.CoreCompileInputs.cache
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\dal.csproj.CopyComplete
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\dal.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\refint\dal.dll
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\dal.pdb
+E:\DotNet\DotnetPractice\ConnectedDemo\DAL\obj\Debug\net7.0\ref\dal.dll

@@ -1,0 +1,19 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>In Index</h1>
+
+<div>
+    <h2>List of  Player</h2>
+    @{
+        List<Player> allply= (List<Player>)ViewData["index"];
+        <ol>
+            @foreach( Player dept in allply){
+                
+                <li><a href="/Player/Display/@dept.Id">@dept.Name</a></li>
+            }
+        </ol>    
+    }
+</div>
